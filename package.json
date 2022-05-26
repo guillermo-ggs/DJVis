@@ -1,0 +1,19 @@
+{
+  "name": "djvis",
+  "version": "0.0.1",
+  "description": "webapp to stream audio and use butterchurnvis to display visuals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillermo-ggs/DJVis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillermo-ggs/DJVis/issues"
+  },
+  "homepage": "https://github.com/guillermo-ggs/DJVis#readme"
+}
